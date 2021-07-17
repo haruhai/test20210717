@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.bold {
+  font-weight: bold;
+}
+.vlogtitle {
+  font-weight: bold;
+  padding-top: 5px;
+}
+form dl dt {
+  width: 150px;
+  text-align: center;
+  font-weight: bold;
+  float: left;
+  clear: both;
+  padding-top: 10px;
+}
+form dd {
+  padding-top: 10px;
+}
+form dt:nth-child(7) {
+  padding-top: 90px;
+}
+img {
+  width: 100%;
+}
+.about {
+  margin-top: 10px;
+}
+.about-text {
+  margin-top: 10px;
+}
+.vlog {
+  margin-top: 10px;
+}
+.img1 {
+  margin-top: 10px;
+}
+.img2 {
+  margin-top: 10px;
+}
+.img3 {
+  margin-top: 10px;
+}
+.ask {
+  margin-top: 10px;
+}
